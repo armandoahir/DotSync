@@ -30,6 +30,7 @@ nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
 nnoremap <F8> :TagbarToggle<CR>
 
-:colorscheme orange-moon
+:colorscheme vim
+" :colorscheme orange-moon
 let g:NERDTreeDirArrowExpandable="+"
 let g:NERDTreeDirArrowCollapsible="-"
